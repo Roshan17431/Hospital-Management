@@ -12,4 +12,24 @@ Features
 Installation
 
 	1.	Clone the repository:
-git clone <>
+                 git clone <(https://github.com/Roshan17431/Hospital-Management.git)>
+	2.	Ensure you have Python installed (version 3.x recommended).
+
+Usage
+
+	1.	Run the program:
+                 python Hospital Management.py
+ 	2.	Follow the on-screen prompts to add, display, or search for doctor records.
+
+Dependencies
+
+	•	pickle: For saving and loading doctor data to/from a binary file.
+
+File Structure
+
+	•	Hospital Management.py: Main script containing the functionality.
+	•	doctors.dat: Binary file used for storing doctor records.
+
+Contributing
+
+Contributions are welcome! Please follow standard practices for code quality and submit a pull request for review.
